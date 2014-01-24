@@ -1,2 +1,3 @@
 HaskellHomework
 ===============
+Functional is great!
